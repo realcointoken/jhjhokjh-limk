@@ -4916,7 +4916,7 @@ a.metaportal_fn_videobutton:hover .fn__svg,
 .metaportal_fn_filters .filter_item__header{
 	position: relative;
 	padding: 20px 30px;
-	background-color: rgba(0,0,0,0.3);
+	background-color: rgba(0,0,0,0);
 	border: 1px solid rgba(255,255,255,.07);
 	border-radius: 5px;
 }
@@ -4948,7 +4948,7 @@ a.metaportal_fn_videobutton:hover .fn__svg,
 	width: 100%;
 	height: initial;
 	overflow: hidden;
-	background-color: rgba(0,0,0,0.3);
+	background-color: rgba(0,0,0,0);
 	border-radius: 0 0 5px 5px;
 	border: 1px solid rgba(255,255,255,.07);
 }
