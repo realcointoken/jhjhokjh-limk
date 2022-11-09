@@ -62,7 +62,7 @@ html{
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background: rgb(27,18,29);
+	background: rgb(55,11,24);
 	background: -moz-linear-gradient(90deg, rgba(86, 4, 44, 1) 0%, rgba(86, 4, 44, 1) 50%, rgba(86, 4, 44, 1) 100%);
 	background: -webkit-linear-gradient(90deg, rgba(115,18,29,1) 0%, rgba(115,15,47,1) 50%, rgba(86, 4, 44, 1) 100%);
 	background: linear-gradient(90deg, rgba(86, 4, 44, 1) 0%, rgba(86, 4, 44, 1) 50%, rgba(86, 4, 44, 1) 100%);
