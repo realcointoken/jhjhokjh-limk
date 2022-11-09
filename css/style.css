@@ -4917,7 +4917,7 @@ a.metaportal_fn_videobutton:hover .fn__svg,
 	position: relative;
 	padding: 20px 30px;
 	background-color: rgba(0,0,0,0);
-	border: 1px solid rgba(255,255,255,.07);
+	border: 1px solid rgba(255,255,255,255);
 	border-radius: 5px;
 }
 .metaportal_fn_filters .filter_item__header .text{
@@ -4950,7 +4950,7 @@ a.metaportal_fn_videobutton:hover .fn__svg,
 	overflow: hidden;
 	background-color: rgba(0,0,0,0);
 	border-radius: 0 0 5px 5px;
-	border: 1px solid rgba(255,255,255,.07);
+	border: 1px solid rgba(255,255,255,255);
 }
 .metaportal_fn_filters .ic_in{
 	padding: 23px 20px 21px 30px;
@@ -6529,7 +6529,7 @@ a.metaportal_fn_videobutton:hover .fn__svg,
 	background-color: #000;
 	padding: 10px 36px 10px 19px;
 	border-radius: 35px;
-	border: 1px solid #35094a;
+	border: 1px solid #000000;
 	position: relative;
 	z-index: 1;
 	text-transform: uppercase;
