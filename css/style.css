@@ -219,8 +219,6 @@ body:after{
 	background-color: var(--mc2);
 	border-radius: 100%;
 	-webkit-filter: blur(150px);
-	-o-filter: blur(150px);
-	filter: blur(150px);
 }
 body:before{
 	content: '';
