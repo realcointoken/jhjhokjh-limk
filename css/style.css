@@ -222,6 +222,19 @@ body:after{
 	-o-filter: blur(150px);
 	filter: blur(150px);
 }
+body:before{
+	content: '';
+	position: fixed;
+	width: 270px;
+	height: 270px;
+	top: 27.5%; /* 297px */
+	left: 23.9%; /* 479px */
+	background-color: var(--mc1);
+	border-radius: 100%;
+	-webkit-filter: blur(150px);
+	-o-filter: blur(150px);
+	filter: blur(150px);
+}
 .fn__svg{
 	fill: currentcolor;
 	width: 18px;
