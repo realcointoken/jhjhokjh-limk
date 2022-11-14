@@ -232,8 +232,6 @@ body:before{
 	background-color: var(--mc1);
 	border-radius: 100%;
 	-webkit-filter: blur(150px);
-	-o-filter: blur(150px);
-	filter: blur(150px);
 }
 .fn__svg{
 	fill: currentcolor;
